@@ -123,14 +123,14 @@ body {
 }
 
 /* HOME CONTENT */
-.home-content h3 {
+.index-content h3 {
   margin-top: 40px;
   font-size: 1.4rem;
   font-weight: 700;
   color: #222;
 }
 
-.home-content p {
+.index-content p {
   margin-top: 12px;
   color: #444;
   font-size: 1rem;
